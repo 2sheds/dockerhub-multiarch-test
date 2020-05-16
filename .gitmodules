@@ -1,3 +1,4 @@
 [submodule "hooks"]
 	path = hooks
 	url = https://github.com/2sheds/dockerhub-multiarch-hooks.git
+	branch = buildx
